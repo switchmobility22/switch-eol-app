@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "962530037111",
+    "project_id": "switch-app-v1",
+    "storage_bucket": "switch-app-v1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962530037111:android:6a033d488b12d70f7ba572",
+        "android_client_info": {
+          "package_name": "com.example.switch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHdNqEUkdRjUbufuisAvv-IguvREoqUFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
